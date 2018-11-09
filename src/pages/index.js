@@ -15,7 +15,7 @@ const IndexPage = () => (
   <p>ANd I contribute to Open Source as well :<a href=" https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project"> OWASP</a> . 
 and <a href="http://w3af.org/">w3af (going to contribute)</a> </p>  
   <Link to="/page-2/">Myself</Link>
-  </div>
+
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
     </div>
